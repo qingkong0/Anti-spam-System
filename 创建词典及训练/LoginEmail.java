@@ -16,7 +16,7 @@ public class LoginEmail extends JFrame implements ActionListener{
 			{
 			   dispose();
 			}
-			});
+		});
 		login.addActionListener(this);
 		login.setBounds(180, 200, 200, 30);
 		user=new JLabel("’Àªß:");
